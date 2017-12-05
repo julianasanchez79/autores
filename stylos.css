@@ -40,7 +40,8 @@ nav{
 
 }
 
-}ul{
+ul
+{
 	margin: auto;
 	padding-top: 4px;
 }
@@ -54,10 +55,11 @@ a{
 	font-size: 35px;
 	color: white;
 }
-.menu: link{color: white; text-decoration: none; }
-.menu: visited{color: white; text-decoration: none; } 
-.menu: hover{color: yellow; text-decoration: none background: #e7b200; }
-.menu: active{color: white; text-decoration: none background: #e7b200; }
+.menu
+{
+	color: white; 
+	text-decoration: none; 
+}
 section{
 	width: 780px;
 	height: auto;
@@ -70,8 +72,9 @@ section{
 	margin-bottom: 10px;
 	margin-top:250px;
 }
-aside{
-	width: 380px;
+aside
+{
+	width: 450px;
 	height: auto;
 	float: left;
 	border-style: solid;
@@ -83,7 +86,8 @@ aside{
 	margin-left: 20px;
 	margin-top:250px;
 }
-footer{
+footer
+{
 	width: 1200px;
 	height: 200px;
 	float: left;
@@ -111,8 +115,8 @@ p{
 	position: relative;
 }
 
-#fooder{
+#footer{
 	padding: 30px;
 	font-size: 40px;
-	text-decoration: bold;
+	text-decoration: overline;
 }
